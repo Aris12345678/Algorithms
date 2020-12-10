@@ -4,7 +4,7 @@
 2. RSQ(Range Sum Query) with Segment Tree
 3. RMQ(Range Minimum Query) with Segment Tree
 4. MST with Kruskal
+5. KMP
 
 Coming soon:
 1. RSQ with Lazy Segment Tree
-2. KMP

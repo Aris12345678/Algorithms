@@ -3,3 +3,7 @@
 1. Dijkstra -> Shortest path from s to every other vertex
 2. RSQ(Range Sum Query) with Segment Tree
 3. RMQ(Range Minimum Query) with Segment Tree
+
+Coming soon:
+MST with Kruskal
+RSQ with Lazy Segment Tree

@@ -5,5 +5,5 @@
 3. RMQ(Range Minimum Query) with Segment Tree
 
 Coming soon:
-MST with Kruskal
-RSQ with Lazy Segment Tree
+1. MST with Kruskal
+2. RSQ with Lazy Segment Tree

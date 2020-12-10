@@ -7,3 +7,4 @@
 
 Coming soon:
 1. RSQ with Lazy Segment Tree
+2. KMP

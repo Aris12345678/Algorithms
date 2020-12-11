@@ -8,3 +8,4 @@
 
 Coming soon:
 1. RSQ with Lazy Segment Tree
+2. Floyd's algorithm for cycle detection in a linked list
